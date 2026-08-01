@@ -1,23 +1,65 @@
-# Hi, I'm Sahil Ahirwar 👋
+# 👋 Hi, I'm Sahil Ahirwar
 
-**Aspiring Data Analyst** — turning raw data into clear, actionable insights using Excel, SQL, and Python.
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI (learning)
 
-I'm currently pursuing my degree while building hands-on, real-world data analysis skills through training and self-driven projects. I enjoy cleaning messy datasets, uncovering patterns, and building dashboards that actually help people make decisions — not just look nice.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilahirwar571)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilahirwar20005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://insights-hub-portfolio.lovable.app)
 
-## 🛠️ Tools & Techniques
-`Excel` `MySQL` `Python (Pandas, NumPy, Matplotlib, Seaborn)` `Power BI (learning)`
-Data Cleaning · Exploratory Data Analysis · Dashboarding · Pivot Tables · SQL Joins, CTEs & Window Functions
+[![Profile Views](https://komarev.com/ghpvc/?username=sahilahirwar571&color=06b6d4&style=flat-square)](https://github.com/sahilahirwar571)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Arts (Hons.) in Political Science — **University of Delhi**
+- 📊 Skilled in Excel, MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📍 Based in **Delhi, India**
+- 🔄 Career switcher — building real, hands-on data analysis skills through training and self-driven projects
+- 📬 Reach me at **sahilahirwar20005@gmail.com**
+
+---
 
 ## 📂 Featured Projects
-- **[Excel-Project](https://github.com/sahilahirwar571/Excel-Project)** — Pivot-table dashboards with slicers and interactive charts
-- **[Python-Project](https://github.com/sahilahirwar571/Python-Project)** — EDA using Pandas, NumPy, Matplotlib & Seaborn
-- **[Sql-Project](https://github.com/sahilahirwar571/Sql-Project)** — SQL queries covering joins, subqueries, CTEs & window functions
 
-*(More projects added on an ongoing basis)*
+| Project | Tools | Description |
+|---|---|---|
+| [📊 Excel Data Analysis](https://github.com/sahilahirwar571/Excel-Project) | Excel, Pivot Tables | Sales dashboards with slicers and interactive charts |
+| [🐍 Python Data Analysis](https://github.com/sahilahirwar571/Python-Project) | Python, Pandas, Seaborn | EDA on sales data to profile customer behavior |
+| [🗄️ SQL Data Analysis](https://github.com/sahilahirwar571/Sql-Project) | MySQL | Queries covering joins, CTEs, and window functions |
 
-## 🌱 Currently
-Expanding into Power BI and looking for opportunities to apply my skills as a Data Analyst.
+---
 
-## 📫 Reach Me
-- Portfolio: [insights-hub-portfolio.lovable.app](https://insights-hub-portfolio.lovable.app)
-- Email: sahilahirwar20005@gmail.com
+## 🛠️ Skills
+
+### 💠 Programming & Data
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 💠 Visualization
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilahirwar20005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilahirwar571)
+
+---
+
+## 🏆 Training & Certification
+
+- 📜 Data Analyst Certification — Indian Institute of Training for Software and Computing Lab (IITSCL), Oct 2024–Present
+
+---
+
+### 📊 "Turning raw data into clear, actionable insight."
+
+⭐ **Feel free to explore my repositories and connect with me!**
