@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Ahirwar
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI (learning)
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilahirwar571)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilahirwar20005@gmail.com)
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Arts (Hons.) in Political Science — **University of Delhi**
-- 📊 Skilled in Excel, MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 Skilled in Excel, MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI
 - 📍 Based in **Delhi, India**
 - 🔄 Career switcher — building real, hands-on data analysis skills through training and self-driven projects
 - 📬 Reach me at **sahilahirwar20005@gmail.com**
@@ -27,6 +27,9 @@
 | [📊 Excel Data Analysis](https://github.com/sahilahirwar571/Excel-Project) | Excel, Pivot Tables | Sales dashboards with slicers and interactive charts |
 | [🐍 Python Data Analysis](https://github.com/sahilahirwar571/Python-Project) | Python, Pandas, Seaborn | EDA on sales data to profile customer behavior |
 | [🗄️ SQL Data Analysis](https://github.com/sahilahirwar571/Sql-Project) | MySQL | Queries covering joins, CTEs, and window functions |
+| [📈 Power BI Dashboards](https://github.com/sahilahirwar571/Power-bi-Project) | Power BI, DAX | Multi-page dashboards with KPIs, slicers, and interactive visuals |
+
+*(More projects added on an ongoing basis)*
 
 ---
 
