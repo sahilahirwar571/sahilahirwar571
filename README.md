@@ -59,7 +59,7 @@
 
 ## 🏆 Training & Certification
 
-- 📜 Data Analyst Certification — Indian Institute of Training for Software and Computing Lab (IITSCL), June 2025 – July 2026
+- 📜 Data Analyst Certification — Indian Institute of Training for Software and Computing Lab (IITSCL), Jan 2026 – Aug 2026
 
 ---
 
